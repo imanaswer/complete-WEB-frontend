@@ -125,7 +125,7 @@ const Team = [
         position: 'Founder',
         info: "Ms. Harshitha Challa, the visionary founder of Code 69, leads our team with a passion for innovation and excellence. Under her leadership, we strive to pave the way for startup success.",
         foto: images.team01,
-        linkedin: '#',
+        linkedin: 'http://linkedin.com/in/harshitha-challa-255b482a1',
     },
     {
         name: 'Mr. Bibin S',
