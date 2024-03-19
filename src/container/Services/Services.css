@@ -1,0 +1,147 @@
+#services h1 {
+    margin-top: 150px;
+    text-align: center;
+    color: #EFF6E0;
+  }
+  
+  .headings {
+    font-size: 30px; /* Adjust the value as needed */
+}
+
+.headings {
+    text-align: center;
+    color: #EFF6E0;
+  }
+  
+  .headings h2 {
+    margin-bottom: 0;
+    color: #EFF6E0;
+  }
+  
+  .headings p {
+    margin-top: 0;
+    text-align: left;
+    font-weight: 500;
+    font-size: 26px;
+    color: #EFF6E0;
+  }
+  
+  
+  :root {
+    --color-dark: #000000; /* Dark blue */
+    --color-highlight: #e4d4d4; /* Yellow */
+    --color-grey: #ffffff; /* Grey */
+}
+
+.bdark,
+.bgreen,
+.blight {
+    border: 2px solid var(--color-dark);
+    margin: 1rem;
+    box-shadow: 0px 5px 0px var(--color-dark);
+    border-radius: 45px;
+    align-items: center;
+    padding: 2rem;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 210px;
+}
+
+.bdark {
+    background: var(--color-highlight);
+}
+
+.bgreen {
+    background: var(--color-highlight);
+}
+
+.blight {
+    background: var(--color-highlight);
+}
+
+.bdark span,
+.bgreen span,
+.blight span {
+    display: table;
+    padding: .1rem .5rem;
+    font-weight: 500;
+    font-size: 26px;
+    color: #000000;
+    line-height: 28px;
+    border-radius: 5px;
+}
+
+
+
+.readmore {
+    display: block;
+    bottom: 0;
+    color: #000000; /* Change to black */
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.readmore svg {
+    font-size: 26px;
+    margin-right: .5rem;
+    color: #000000; /* Change to black */
+}
+
+.bdark .readmore,
+.bdark .readmore svg {
+    color: #000000; /* Change to black */
+}
+
+.readmore:hover {
+    transform: scale(1.1);
+    color: #000000; /* Change to black */
+}
+
+.bdark .readmore:hover {
+    transform: scale(1.1);
+    color: #000000; /* Change to black */
+}
+
+
+@media(max-width: 510px) {
+    .img-services {
+        width: auto;
+        max-width: 50%;
+        margin-top: -100px;
+        z-index: 9999;
+    }
+
+    .readmore {
+        position: absolute;
+        bottom: -5em;
+        font-size: 16px;
+        color: #000000;
+
+    }
+
+    .bdark,
+    .bgreen,
+    .blight {
+        min-height: 200px;
+        padding: 1rem;
+    }
+
+    .bdark span,
+    .bgreen span,
+    .blight span {
+        display: table;
+        padding: .1rem .5rem;
+
+        font-size: 18px;
+        color: #000000;
+        line-height: 22px;
+
+    }
+
+
+
+}

@@ -1,0 +1,24 @@
+
+  
+  .title {
+    font-size: 50px; /* Set font size for the title */
+    text-align: left;
+    font-weight: bold; /* Set font weight for emphasis */
+    color: #fdfdfd; /* Set font color */
+  }
+  
+  .py-4 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: #fdfdfd;
+  }
+  
+  .img-fluid {
+    max-width: 100%; /* Ensure image does not exceed container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .clients {
+    margin-top: 40px; /* Add space between hero section and clients section */
+  }
+  

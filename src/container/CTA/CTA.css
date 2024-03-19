@@ -1,0 +1,31 @@
+/* CTA.css */
+
+/* Styling for h3 */
+.cta-heading {
+  text-align: center;
+  color: white;
+  font-size: 28px;
+  margin-bottom: 10px; /* Adjust as needed */
+}
+
+/* Styling for p */
+.cta-paragraph {
+  font-size: 20px;
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+/* Styling for image */
+.cta-img {
+  max-width: 100%;
+  height: auto;
+  margin-right: 50px; /* Add margin if needed */
+}
+
+@media (max-width: 960px) {
+  .cta {
+    padding: 2rem;
+    text-align: center;
+    margin: 4rem 1rem;
+  }
+}

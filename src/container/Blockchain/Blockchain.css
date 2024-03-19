@@ -1,0 +1,42 @@
+
+  .blockchain-container h2 {
+    color: #ffffff;
+    font-size: 32px;
+    margin-bottom: 25px;
+    margin-top: 60px;
+  }
+  
+  .blockchain-container p {
+    color: #f9f5f5;
+    font-size: 22px;
+    line-height: 2;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: auto;
+  }
+  
+  .blockchain-container ol,
+  .blockchain-container ul {
+    /* Example: Additional styling for lists */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    color: aliceblue;
+    font-size: 22px;
+  }
+  
+  .blockchain-container li {
+    /* Example: Additional styling for list items */
+    margin-bottom: 5px;
+    color: aliceblue;
+    font-size: 22px;
+  }
+  
+
+  
+  
+ 
+  
+  
+
+
