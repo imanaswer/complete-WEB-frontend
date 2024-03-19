@@ -144,7 +144,7 @@ const Team = [
     {
         name: 'Aadarsh T R',
         position: 'CSO',
-        info: "Mr. Aadarsh T R, our visionary CTO, leads Code 69's technological innovation and development efforts with unparalleled expertise. Through his strategic guidance and inventive prowess, he drives our team to push the boundaries of technology.",
+        info: "Mr. Aadarsh T R, our visionary CSO, leads Code 69's technological innovation and development efforts with unparalleled expertise. Through his strategic guidance and inventive prowess, he drives our team to push the boundaries of technology.",
         foto: images.team04,
         linkedin: 'https://www.linkedin.com/in/aadarsh-t-r/',
     },
