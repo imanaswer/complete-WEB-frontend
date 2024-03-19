@@ -28,8 +28,8 @@ const Footer = () => {
             <li> <span>Contact us:</span></li>
             <li>Email: info@code-69.com</li>
             <li>Phone: 9446522675</li>
-            <li>Address: 1234 Main St
-              Moonstone City, Stardust State 12345</li>
+            {/* <li>Address: 1234 Main St
+              Moonstone City, Stardust State 12345</li> */}
           </ul>
         </div>
         <div className="col-md-8 col-12">
