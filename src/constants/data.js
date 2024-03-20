@@ -149,7 +149,7 @@ const Team = [
         position: 'CPO',
         info: "David, an integral part of our technical team, brings a wealth of expertise and dedication to Code 69. With his passion for innovation and meticulous attention to detail, he plays a pivotal role in ensuring the seamless execution of our projects.",
         foto: images.team05,
-        linkedin: '#',
+        linkedin: 'https://www.linkedin.com/in/david-tony-veliath/',
     },
     {
         name: 'Vyshnav ',
