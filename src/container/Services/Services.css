@@ -107,27 +107,28 @@
 }
 
 
-@media(max-width: 510px) {
+@media(max-width: 767px) {
     .img-services {
         width: auto;
-        max-width: 50%;
-        margin-top: -100px;
+        max-width: 80%; /* Adjust as needed */
+        margin-top: -50px; /* Adjust as needed */
         z-index: 9999;
     }
 
     .readmore {
-        position: absolute;
-        bottom: -5em;
-        font-size: 16px;
-        color: #000000;
-
+        display: inline-block; /* Ensure proper alignment */
+        margin-top: 10px; /* Adjust as needed */
+        font-size: 14px; /* Adjust as needed */
     }
 
     .bdark,
     .bgreen,
     .blight {
-        min-height: 200px;
-        padding: 1rem;
+        display: flex; /* Ensure proper alignment */
+        flex-direction: column; /* Ensure proper alignment */
+        align-items: center; /* Ensure proper alignment */
+        min-height: 180px; /* Adjust as needed */
+        padding: 0.5rem; /* Adjust as needed */
     }
 
     .bdark span,
@@ -135,13 +136,17 @@
     .blight span {
         display: table;
         padding: .1rem .5rem;
-
-        font-size: 18px;
-        color: #000000;
-        line-height: 22px;
-
+        font-size: 16px; /* Adjust as needed */
+        line-height: 20px; /* Adjust as needed */
     }
 
+    .headings {
+        text-align: center; /* Ensure proper alignment */
+        font-size: 22px; /* Adjust as needed */
+    }
 
-
+    .headings p {
+        text-align: center; /* Ensure proper alignment */
+        font-size: 18px; /* Adjust as needed */
+    }
 }

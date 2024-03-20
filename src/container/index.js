@@ -1,5 +1,5 @@
 import Testimonials from './Testimonials/Testimonials';
-import CaseStudies from './CaseStudies/CaseStudies';
+
 import Contact from './Contact/Contact';
 import Footer from './Footer/Footer';
 import Hero from './Hero/Hero';
@@ -16,7 +16,7 @@ import Blockchain from './Blockchain/Blockchain';
 
 export {
     Testimonials,
-    CaseStudies,
+    
     CTA,
     Contact,
     Footer,

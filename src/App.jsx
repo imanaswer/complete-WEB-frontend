@@ -1,7 +1,7 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { Testimonials, CaseStudies, Contact, Footer, Hero, Process, Services, Team, CTA } from './container';
+import { Testimonials, Contact, Footer, Hero, Process, Services, Team, CTA } from './container';
 
 import { Menu } from './components';
 import Appdev from './container/Appdev/Appdev';
@@ -27,7 +27,6 @@ const App = () => (
         <Route path="/Cyber"  element={<Cyber />} />
         <Route path="/cta" element={<CTA />} />
         <Route path="/About" element={<About />} />
-        <Route path="/case-studies" element={<CaseStudies />} />
         <Route path="/process" element={<Process />} />
         <Route path="/team" element={<Team />} />
         <Route path="/testimonials" element={<Testimonials />} />
@@ -43,7 +42,7 @@ const Home = () => (
     <Hero />
     <Services />
     <CTA />
-    <CaseStudies />
+    
     <Process />
     <Team />
     <Testimonials />

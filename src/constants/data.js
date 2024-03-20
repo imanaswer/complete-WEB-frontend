@@ -13,11 +13,7 @@ const Menu = [
         // Adding the white text class to "Services"
         className: 'white-text'
     },
-    {
-        text: 'Case Study',
-        link: '/CaseStudies',
-        className: 'white-text'
-    },
+
     {
         text: 'Process',
         link: '/process',
