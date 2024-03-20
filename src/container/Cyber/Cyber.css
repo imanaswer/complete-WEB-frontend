@@ -1,10 +1,12 @@
 
   
   .cyber-container h2 {
+    font-weight: bold;
     color: #ffffff;
-    font-size: 32px;
+    font-size: 35px;
     margin-bottom: 25px;
     margin-top: 60px;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   .cyber-container p {
@@ -14,11 +16,15 @@
     margin-bottom: 20px;
     margin-top: 20px;
     padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   
   
 
   
+
+
+
 
 

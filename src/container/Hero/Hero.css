@@ -22,3 +22,8 @@
     margin-top: 40px; /* Add space between hero section and clients section */
   }
   
+  .code {
+    -webkit-text-stroke: 1px rgb(255, 255, 255); /* Change the border width and color */
+    color: #ac4220; /* Make the text transparent */
+    font-size: 60px;
+}

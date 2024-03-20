@@ -22,9 +22,11 @@ import team06 from '../assets/vyh.png';
 import team01 from '../assets/har.png';
 import hero from '../assets/hero12.png';
 import about from '../assets/about.png';
+import menu from '../assets/menu.png';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default{
+menu,
 thingshappen,
 contact,
 logo,

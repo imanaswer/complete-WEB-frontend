@@ -7,12 +7,11 @@ import './Process.css';
 const Process = () => {
   return (
     <div className="section-padding" id="process">
-      <Headings title="69Forge "  />
+      <Headings title="69Forge " />
 
       <Accordion>
         {data.WorkingProcess.map((item, index) => (
           <Accordion.Item eventKey={index} key={index}>
-            {console.log(item.title)}
             <Accordion.Header><div><span>{index + 1 }</span> {item.title}</div></Accordion.Header>
             <Accordion.Body>
               <p> {item.description}  </p>

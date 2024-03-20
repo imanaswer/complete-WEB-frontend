@@ -22,17 +22,7 @@ const Appdev = () => {
       <h3>5. Post-launch Support and Maintenance</h3>
       <p>Our commitment to the startup doesn’t end with the app launch. We offer post-launch support and maintenance services to address any issues, implement updates, and optimize performance based on user feedback and evolving market trends.</p>
 
-      <h2>Technologies We Use:</h2>
-      <p>1. Programming Languages: Our team is proficient in a wide range of programming languages, including Swift, Kotlin, Java, JavaScript, and more, ensuring that we can develop applications for both iOS and Android platforms.</p>
-      <p>2. Frameworks and Libraries: We leverage popular frameworks and libraries such as React Native, Flutter, Xamarin, and Ionic to build cross-platform applications that deliver consistent user experiences across devices.</p>
-      <p>3. Backend Technologies: For backend development, we utilize robust technologies such as Node.js, Django, Laravel, and Firebase to create scalable and secure server-side solutions that power the application’s functionality and data management capabilities.</p>
-      <p>4. Database Systems: We work with various database systems, including MySQL, MongoDB, PostgreSQL, and Firebase Firestore, to store and manage data efficiently, ensuring seamless access and retrieval for users.</p>
-      <p>5. Cloud Services: We leverage cloud services such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure to host applications, store data, and scale resources dynamically based on demand.</p>
-      <p>6. Security Measures: Security is a top priority for us, and we implement industry best practices and security measures such as data encryption, secure authentication, and compliance with relevant regulations such as GDPR and HIPAA to protect sensitive information and ensure user privacy.</p>
-
-      <p>By leveraging cutting-edge technologies, adopting best practices, and prioritizing customer satisfaction, Code 69 ensures that startups receive top-notch app development services that empower them to achieve their business objectives and stand out in today’s competitive market.</p>
-
-      <p>At Code 69, we’re committed to delivering app development services that exceed expectations, providing startups with the tools they need to succeed in the ever-evolving digital landscape.</p>
+     <p>At Code 69, we’re committed to delivering app development services that exceed expectations, providing startups with the tools they need to succeed in the ever-evolving digital landscape.</p>
     </div>
   );
 };

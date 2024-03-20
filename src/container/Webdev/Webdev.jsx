@@ -25,20 +25,6 @@ const Webdev = () => {
       <h3>6. Deployment and Support</h3>
       <p>Once the website is ready for deployment, we assist startups in launching their website to the desired hosting platform, whether it be shared hosting, cloud hosting, or dedicated servers. Our support doesn’t end there – we provide ongoing maintenance, updates, and technical support to ensure that the website continues to perform optimally and meet the evolving needs of the startup and its users.</p>
 
-      <h2>Technologies We Use</h2>
-      <p>1. Frontend Technologies: Our frontend development team is proficient in HTML5, CSS3, JavaScript, and modern frontend frameworks such as React.js, Vue.js, and Angular.js, enabling us to create dynamic, interactive, and responsive user interfaces.</p>
-
-      <p>2. Backend Technologies: For backend development, we utilize robust technologies such as Node.js, Django, Laravel, and Ruby on Rails to create scalable and secure server-side solutions that power the website’s functionality and data management capabilities.</p>
-
-      <p>3. Content Management Systems (CMS): We work with popular CMS platforms such as WordPress, Drupal, and Joomla to provide startups with flexible and easy-to-use content management solutions, empowering them to update and manage their website content with ease.</p>
-
-      <p>4. E-commerce Platforms: For startups looking to sell products or services online, we integrate e-commerce platforms such as Shopify, WooCommerce, and Magento to create seamless and secure online shopping experiences for customers.</p>
-
-      <p>5. Database Systems: We work with various database systems, including MySQL, MongoDB, PostgreSQL, and Firebase Firestore, to store and manage website data efficiently, ensuring seamless access and retrieval for users.</p>
-
-      <p>6. Cloud Services: We leverage cloud services such as Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure to host websites, store data, and scale resources dynamically based on demand.</p>
-
-      <p>By combining cutting-edge technologies, creative design, and strategic planning, Code 69 delivers web development services that empower startups to establish a strong online presence, engage their target audience, and achieve their business objectives with confidence and success.</p>
 
       <p>At Code 69, we’re dedicated to delivering web development solutions that exceed expectations, providing startups with the foundation they need to thrive in today’s digital world.</p>
     </div>

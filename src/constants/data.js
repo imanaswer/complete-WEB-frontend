@@ -138,23 +138,23 @@ const Team = [
         linkedin: 'https://www.linkedin.com/in/anaswerajay/',
     },
     {
-        name: 'Aadarsh T R',
+        name: 'Mr. Aadarsh T R',
         position: 'CSO',
         info: "Mr. Aadarsh T R, our visionary CSO, leads Code 69's technological innovation and development efforts with unparalleled expertise. Through his strategic guidance and inventive prowess, he drives our team to push the boundaries of technology.",
         foto: images.team04,
         linkedin: 'https://www.linkedin.com/in/aadarsh-t-r/',
     },
     {
-        name: 'David',
+        name: 'Mr. David Tony',
         position: 'CPO',
-        info: "David, an integral part of our technical team, brings a wealth of expertise and dedication to Code 69. With his passion for innovation and meticulous attention to detail, he plays a pivotal role in ensuring the seamless execution of our projects.",
+        info: "Mr. David, an integral part of our technical team, brings a wealth of expertise and dedication to Code 69. With his passion for innovation and meticulous attention to detail, he plays a pivotal role in ensuring the seamless execution of our projects.",
         foto: images.team05,
         linkedin: 'https://www.linkedin.com/in/david-tony-veliath/',
     },
     {
-        name: 'Vyshnav ',
+        name: 'Mr. Vyshnav Unnikrishnan',
         position: 'CTO',
-        info: "Vyshnav, a valued member of our technical team, contributes his expertise and enthusiasm to Code 69. With a keen eye for detail and a commitment to excellence, he plays a crucial role in the successful implementation of our projects.",
+        info: "Mr. Vyshnav, a valued member of our technical team, contributes his expertise and enthusiasm to Code 69. With a keen eye for detail and a commitment to excellence, he plays a crucial role in the successful implementation of our projects.",
         foto: images.team06,
         linkedin: 'https://www.linkedin.com/in/vyshnav-unnikrishnan-0a301a263/',
     },
@@ -164,7 +164,7 @@ const Team = [
 const Testimonials = [
     {
         name: 'Rahul KS',
-        position: 'Technical lead  at linx',
+        position: 'Technical lead  at Linx',
         testimonial: 'Code 69’s tailored solutions and hands-on support gave our startup the boost we needed. With them, we’re confident in our ability to innovate and succeed.',
     },
     {
@@ -174,12 +174,12 @@ const Testimonials = [
     },
     {
         name: 'Bhuvan Shankar',
-        position: 'Managing director at The big trillion',
+        position: 'Managing director at The Big Trillion',
         testimonial: 'Partnering with Code 69 was a game-changer. Their deep understanding of our needs made all the difference. With their expertise, we’re ready to take on any challenge.',
     },
     {
-        name: 'Isha kaphar',
-        position: 'Tech team',
+        name: 'Ms. Kaphar',
+        position: 'Tech Team',
         testimonial: 'Code 69’s industry expertise and personalized support have been invaluable to our startup’s success. Their tailored solutions have helped us navigate challenges and achieve milestones with confidence',
     },
 ];
