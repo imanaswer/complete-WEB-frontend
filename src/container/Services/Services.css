@@ -2,32 +2,27 @@
     margin-top: 30px;
     text-align: center;
     color: #EFF6E0;
-  }
-  
-  .headings {
-    font-size: 30px; /* Adjust the value as needed */
 }
 
 .headings {
     text-align: center;
     color: #EFF6E0;
-  }
-  
-  .headings h2 {
+}
+
+.headings h2 {
     margin-bottom: 0;
     color: #EFF6E0;
-  }
-  
-  .headings p {
+}
+
+.headings p {
     margin-top: 0;
     text-align: left;
     font-weight: 500;
     font-size: 26px;
     color: #EFF6E0;
-  }
-  
-  
-  :root {
+}
+
+:root {
     --color-dark: #000000; /* Dark blue */
     --color-highlight: #e4d4d4; /* Yellow */
     --color-grey: #ffffff; /* Grey */
@@ -75,11 +70,8 @@
     border-radius: 5px;
 }
 
-
-
 .readmore {
     display: block;
-    bottom: 0;
     color: #000000; /* Change to black */
     font-size: 20px;
     text-decoration: none;
@@ -106,29 +98,19 @@
     color: #000000; /* Change to black */
 }
 
-
-@media(max-width: 767px) {
+@media(max-width: 510px) {
     .img-services {
         width: auto;
-        max-width: 80%; /* Adjust as needed */
-        margin-top: -50px; /* Adjust as needed */
+        max-width: 50%;
+        margin-top: -100px;
         z-index: 9999;
-    }
-
-    .readmore {
-        display: inline-block; /* Ensure proper alignment */
-        margin-top: 10px; /* Adjust as needed */
-        font-size: 14px; /* Adjust as needed */
     }
 
     .bdark,
     .bgreen,
     .blight {
-        display: flex; /* Ensure proper alignment */
-        flex-direction: column; /* Ensure proper alignment */
-        align-items: center; /* Ensure proper alignment */
-        min-height: 180px; /* Adjust as needed */
-        padding: 0.5rem; /* Adjust as needed */
+        min-height: 200px;
+        padding: 1rem;
     }
 
     .bdark span,
@@ -136,17 +118,27 @@
     .blight span {
         display: table;
         padding: .1rem .5rem;
-        font-size: 16px; /* Adjust as needed */
-        line-height: 20px; /* Adjust as needed */
+        font-size: 18px;
+        color: #000000;
+        line-height: 22px;
     }
 
-    .headings {
-        text-align: center; /* Ensure proper alignment */
-        font-size: 22px; /* Adjust as needed */
+    .box {
+        flex-direction: row; /* Change to row layout */
+        align-items: center; /* Center items vertically */
+        justify-content: space-between; /* Space items evenly */
     }
 
-    .headings p {
-        text-align: center; /* Ensure proper alignment */
-        font-size: 18px; /* Adjust as needed */
+    .col-md-6.box {
+        width: 100%; /* Take full width */
+    }
+
+    .col-md-6.text-end {
+        order: -1; /* Move this column to the beginning */
+    }
+
+    .readmore {
+        text-align: center; /* Center align the "Learn more" link */
+        margin-top: 1rem; /* Add some space between image and link */
     }
 }

@@ -173,7 +173,7 @@ const Testimonials = [
         testimonial: 'Code 69 understands startup challenges firsthand. Their industry expertise and personalized approach have been instrumental in our growth journey.',
     },
     {
-        name: 'Bhuvan Shankar',
+        name: 'Manuraj',
         position: 'Managing director at The Big Trillion',
         testimonial: 'Partnering with Code 69 was a game-changer. Their deep understanding of our needs made all the difference. With their expertise, we’re ready to take on any challenge.',
     },

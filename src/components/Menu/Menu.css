@@ -54,10 +54,11 @@
     margin-bottom: 1rem;
 }
 
-.navbar-toggler-icon {
-    background: url(../../assets/menu.png) no-repeat;
-}
 
 .white-text {
     color: white; /* Settext color to white */
+}
+.navbar-toggler-icon {
+    background-image: url('../../assets/menu.png');
+    background-repeat: no-repeat;
 }
