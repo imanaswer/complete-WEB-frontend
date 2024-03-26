@@ -139,25 +139,26 @@ const Team = [
     },
     {
         name: 'Mr. Aadarsh T R',
-        position: 'CSO',
-        info: "Mr. Aadarsh T R, our visionary CSO, leads Code 69's technological innovation and development efforts with unparalleled expertise. Through his strategic guidance and inventive prowess, he drives our team to push the boundaries of technology.",
+        position: 'Technical Lead',
+        info: "Mr. Aadarsh T R, leads Code 69's technological innovation and development efforts with unparalleled expertise. Through his strategic guidance and inventive prowess, he drives our team to push the boundaries of technology.",
         foto: images.team04,
         linkedin: 'https://www.linkedin.com/in/aadarsh-t-r/',
     },
     {
         name: 'Mr. David Tony',
-        position: 'CPO',
+        position: 'Technical Team',
         info: "Mr. David, an integral part of our technical team, brings a wealth of expertise and dedication to Code 69. With his passion for innovation and meticulous attention to detail, he plays a pivotal role in ensuring the seamless execution of our projects.",
         foto: images.team05,
         linkedin: 'https://www.linkedin.com/in/david-tony-veliath/',
     },
     {
         name: 'Mr. Vyshnav Unnikrishnan',
-        position: 'CTO',
+        position: 'Technical Team',
         info: "Mr. Vyshnav, a valued member of our technical team, contributes his expertise and enthusiasm to Code 69. With a keen eye for detail and a commitment to excellence, he plays a crucial role in the successful implementation of our projects.",
         foto: images.team06,
         linkedin: 'https://www.linkedin.com/in/vyshnav-unnikrishnan-0a301a263/',
     },
+    
 
 ];
 
