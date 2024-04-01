@@ -158,6 +158,13 @@ const Team = [
         foto: images.team06,
         linkedin: 'https://www.linkedin.com/in/vyshnav-unnikrishnan-0a301a263/',
     },
+    {
+        name: 'Ms. Anaswara S',
+        position: 'Technical Team / content creator',
+        info: "Anaswara S is an essential part of our technical team and also lends her talents as a content creator. Her ability to merge creativity with technical expertise results in captivating content that effectively showcases our projects and services to our audience.",
+        foto: images.team07,
+        linkedin: 'https://www.linkedin.com/in/anaswara-surendran/',
+    },
     
 
 ];
@@ -186,3 +193,5 @@ const Testimonials = [
 ];
 // eslint-disable-next-line import/no-anonymous-default-export
 export default { Menu, CaseStudies, WorkingProcess, Team, Testimonials, ServicesData };
+
+//git add .,git commit -m "cso",git push --set-upstream Code69 master

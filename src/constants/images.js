@@ -23,6 +23,8 @@ import team01 from '../assets/har.png';
 import hero from '../assets/hero12.png';
 import about from '../assets/about.png';
 import menu from '../assets/menu.png';
+import team07 from '../assets/swara.png';
+
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default{
@@ -49,6 +51,7 @@ team04,
 team05,
 team06,
 team01,
+team07,
 hero,
 about,
 
